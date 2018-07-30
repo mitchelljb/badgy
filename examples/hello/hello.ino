@@ -17,7 +17,7 @@
 #include <WiFiManager.h>
 
 /* change this to your name, you may have to adjust font size and cursor location in showHello() to perfectly center the text */
-const char* name = "badgy";
+const char* name = "Mitchell";
 
 /* Always include the update server, or else you won't be able to do OTA updates! */
 /**/const int port = 8888;
